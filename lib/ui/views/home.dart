@@ -11,7 +11,9 @@ class Home extends StatelessWidget {
       ),
       body: const Column(
         children: [
-          Center(child: Text('Home')),
+          Center(
+            child: Text('Home'),
+          ),
         ],
       ),
     );
